@@ -26,8 +26,6 @@
 * 下载edge driver放置于```D:/Drivers/```目录下并在该目录下解压，没有可以手动创建该目录，大小写一致
 
 > [Microsoft Edge WebDriver | Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH)
->
-> <img src="C:\Users\30978\AppData\Roaming\Typora\typora-user-images\image-20250814201126378.png" alt="image-20250814201126378" style="zoom:50%;" />
 
 
 
@@ -36,8 +34,6 @@
 ```
 pip install -r requirements.txt
 ```
-
-> 确认安装过程完全没有报错再进行下一步
 
 
 
@@ -65,4 +61,3 @@ python ted_scraper_edge.py
 
 最后总览结果位于xslx文件下
 
-![image-20250818215734303](C:\Users\30978\AppData\Roaming\Typora\typora-user-images\image-20250818215734303.png)
